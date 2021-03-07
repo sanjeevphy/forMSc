@@ -1,5 +1,5 @@
 /*
-  File name: lecture3_3.c
+  File name: lecture03_3.c
   If statement
 */
 #include <stdio.h>
@@ -16,20 +16,20 @@ int main(){ //starting of c-program
   return 0;
 }
 /*
-sanjeev[62]gcc lecture3_3.c -o lecture3_3
-sanjeev[63]./lecture3_3 
+sanjeev[62]gcc lecture03_3.c -o lecture03_3
+sanjeev[63]./lecture03_3 
 Give your grade: 95
 Your grade is O (outstanding).
-sanjeev[64]./lecture3_3 
+sanjeev[64]./lecture03_3 
 Give your grade: 90
 Your grade is O (outstanding).
-sanjeev[65]./lecture3_3 
+sanjeev[65]./lecture03_3 
 Give your grade: 49
 You are failed.
-sanjeev[66]./lecture3_3 
+sanjeev[66]./lecture03_3 
 Give your grade: 62
 Your grade is C (Normal).
-sanjeev[67]./lecture3_3 
+sanjeev[67]./lecture03_3 
 Give your grade: 88
 Your grade is A (Very good).
 sanjeev[68]

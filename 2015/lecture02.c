@@ -1,5 +1,5 @@
 /*
-  File name: lecture2.c
+  File name: lecture02.c
   Sample Algebraic and C Expressions
 */
 #include <stdio.h>
@@ -27,8 +27,8 @@ int main(){
   return 0;
 }
 /*
-sanjeev[25]gcc -o lecture2 lecture2.c
-sanjeev[26]./lecture2 
+sanjeev[25]gcc -o lecture02 lecture02.c
+sanjeev[26]./lecture02 
 Give any 5 integers with single space between them: 3 4 5 6 7
 Integers, which are given are follows:
 3, 4, 5, 6 and 7

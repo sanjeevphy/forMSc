@@ -1,5 +1,5 @@
 /* 
-   File name: Lecture8_1.c
+   File name: Lecture08_1.c
    Math library functions
 */
 #include <stdio.h>
@@ -41,8 +41,8 @@ int main(){
   return 0;
 }
 /*
-sanjeev[47]gcc -o lecture7_3 lecture7_3.c -lm 
-sanjeev[48]./lecture7_3
+sanjeev[47]gcc -o lecture08_1 lecture08_1.c -lm 
+sanjeev[48]./lecture08_1
 Give a positive real number: 0.5
 Give a negative real number: -0.5
 square root of 0.500000 = 0.707107

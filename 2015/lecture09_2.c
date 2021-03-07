@@ -1,5 +1,5 @@
 /*
-  File name lecture9_2.c
+  File name lecture09_2.c
   Recursion: calculating factorial
 */
 #include <stdio.h>
@@ -18,8 +18,8 @@ long factorial(int n){
 }
 
 /*
-sanjeev[202]gcc lecture9_2.c -o lecture9_2
-sanjeev[203]./lecture9_2
+sanjeev[202]gcc lecture09_2.c -o lecture09_2
+sanjeev[203]./lecture09_2
  0 = 1
  1 = 1
  2 = 2

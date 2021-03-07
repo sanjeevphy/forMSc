@@ -1,5 +1,5 @@
 /*
-  File with name test.c
+  File with name lecture01.c
   My first c-program
 */
 #include <stdio.h>

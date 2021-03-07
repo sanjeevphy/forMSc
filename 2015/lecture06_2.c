@@ -63,8 +63,8 @@ int main(){
   return 0;
 }
 /*
-sanjeev[13]gcc -o lecture6_2 lecture6_2.c
-sanjeev[14]./lecture6_2
+sanjeev[13]gcc -o lecture06_2 lecture06_2.c
+sanjeev[14]./lecture06_2
 Enter the letter grades.
 Enter EOF character to end the input.
 a

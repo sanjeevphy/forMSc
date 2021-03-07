@@ -1,5 +1,5 @@
 /*
-  File name: lecture4.c
+  File name: lecture04.c
   Class average / counter-controlled repetition
 */
 #include <stdio.h>
@@ -19,8 +19,8 @@ int main(){
   return 0;
 }
 /*
-sanjeev[76]gcc lecture4.c -o lecture4
-sanjeev[77]./lecture4 
+sanjeev[76]gcc lecture04.c -o lecture04
+sanjeev[77]./lecture04 
 Enter grade: 76
 Enter grade: 87
 Enter grade: 90

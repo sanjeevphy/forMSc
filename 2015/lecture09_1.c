@@ -1,5 +1,5 @@
 /*
-  File name: lecture9_1.c
+  File name: lecture09_1.c
   Different datatypes in c and their size
 */
 #include <stdio.h>
@@ -96,8 +96,8 @@ int main(){
 
 
 /*
-sanjeev[189]gcc -o lecture9_1 lecture9_1.c
-sanjeev[190]./lecture9_1
+sanjeev[189]gcc -o lecture09_1 lecture09_1.c
+sanjeev[190]./lecture09_1
 Give the values of different variables:
 Give and integer: 45
 give a short int: 45

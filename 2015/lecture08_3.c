@@ -1,4 +1,4 @@
-/* File name: lecture8_3.c
+/* File name: lecture08_3.c
    finding maximum and minimum in 3 numbers
 */
 #include <stdio.h>
@@ -28,15 +28,15 @@ int minimum(int a, int b, int c){
 }
 
 /*
-sanjeev[106]./lecture8_3 
+sanjeev[106]./lecture08_3 
 Enter 3 integers: 20 30 40
 Maximum is: 40
 and Minimum is: 20
-sanjeev[107]./lecture8_3
+sanjeev[107]./lecture08_3
 Enter 3 integers: 30 20 40
 Maximum is: 40
 and Minimum is: 20
-sanjeev[108]./lecture8_3
+sanjeev[108]./lecture08_3
 Enter 3 integers: 40 20 30
 Maximum is: 40
 and Minimum is: 20

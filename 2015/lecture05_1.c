@@ -1,4 +1,4 @@
-/* Lecture 5_1
+/* Lecture05_1
    counter-controled repetition
 */
 #include <stdio.h>
@@ -19,8 +19,8 @@ int main(){
 }
 
 /*
-sanjeev[109]gcc -o lecture5_1 lecture5_1.c
-sanjeev[110]./lecture5_1
+sanjeev[109]gcc -o lecture05_1 lecture05_1.c
+sanjeev[110]./lecture05_1
 Enter grade: 98
 Enter grade: 83
 Enter grade: 87

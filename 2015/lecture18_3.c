@@ -1,5 +1,5 @@
 /*
-  File name: lecture18_1.c
+  File name: lecture18_3.c
   Enumeration type use of class
 */
 #include <stdio.h>

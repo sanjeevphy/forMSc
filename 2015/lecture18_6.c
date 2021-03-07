@@ -1,5 +1,5 @@
 /*
-  File name: lecture18_1.c
+  File name: lecture18_6.c
   crating synonyms using structure pointer operators
 */
 #include <stdio.h>

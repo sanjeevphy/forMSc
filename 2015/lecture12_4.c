@@ -1,5 +1,5 @@
 /*
-  File name: lecture14_4.c
+  File name: lecture12_4.c
   This program sorts an array's values into ascending order
 */
 #include <stdio.h>

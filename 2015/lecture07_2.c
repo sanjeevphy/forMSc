@@ -1,5 +1,5 @@
 /*
-  File name : lecture7_2.c
+  File name : lecture07_2.c
   using break and continue statement in for loop
 */
 #include <stdio.h>
@@ -27,8 +27,8 @@ int main(){
 }
 
 /*
-sanjeev[31]gcc -o lecture7_2 lecture7_2.c
-sanjeev[32]./lecture7_2
+sanjeev[31]gcc -o lecture07_2 lecture07_2.c
+sanjeev[32]./lecture07_2
 Break statement in first loop
 1 2 3 4 
 Loop is broken at i = 5
